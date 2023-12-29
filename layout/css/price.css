@@ -1,0 +1,150 @@
+h1 {
+	flex-shrink: 0; /*сжатие изображения*/
+	color: #000;
+	font-family: Montserrat;
+	font-size: 64px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+
+	margin-left: 370px;
+	height: 74px;
+	margin-top: 51px;
+	margin-bottom: 0px;
+}
+body {
+	width: 1600px;
+	height: 916px;
+	background: linear-gradient(180deg, #FFF 1%, #00E675 93.75%);
+
+}
+.price {
+ 	width: 980px;
+height: 254px;
+flex-shrink: 0;
+	border: 5px solid #FFF;
+border-radius: 15px;
+border: 5px solid #FAF100;
+margin-left: 470px;
+margin-top: 50px;
+
+}
+.price {
+}
+.price1{
+	width: 470px;
+height: 237px;
+flex-shrink: 0;
+		flex-shrink: 0;
+	color: #000;
+	font-family: Montserrat;	
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 5px;
+	margin-left: 10px;
+
+float: left;
+}
+.price2 {
+	float: right;
+	flex-shrink: 0;
+	color: #000;
+	font-family: Montserrat;	
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	width: 480px;
+height: 244px;
+flex-shrink: 0;
+margin-top: 5px;
+}
+.container {
+	height: 71px;
+}
+
+.header {
+
+}
+
+.header a {
+	color: #000;
+}
+.text {
+	flex-shrink: 0;
+	color: #000;
+	font-family: Montserrat;	
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	margin-left: 470px;
+	margin-top: 50px;
+	margin-right: 150px;
+
+}
+.menu {
+	height: 20px;
+	margin-top: 51px;
+	display: flex;
+
+	font-family: Montserrat;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.menu li a {
+	height: 20;
+	margin-right: 35px;
+	text-emphasis: none;
+	text-decoration: none;
+}
+.menu li {
+}
+
+.tel {
+	text-decoration: none;
+}
+
+.call {
+	margin-left: 56px;
+	margin-right: 14px;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	margin-left: 500px;
+	height: 71px;
+}
+.foot{
+	margin-left: 370px;
+}
+
+.mess {
+	color: #000;
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	
+	margin-top: 45px;
+	float: left;
+}
+
+.vblogo {
+
+	float: left;
+	margin-bottom: 0px;
+	margin-left: 45px;
+	padding-top: 35px;
+}
+.wslogo {
+	padding-top: 33px;
+}

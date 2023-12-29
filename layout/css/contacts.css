@@ -1,0 +1,171 @@
+h1 {
+	flex-shrink: 0; /*сжатие изображения*/
+	color: #000;
+	font-family: Montserrat;
+	font-size: 64px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+
+	margin-left: 345px;
+	height: 74px;
+	margin-top: 51px;
+	margin-bottom: 0px;
+}
+body {
+	width: 1600px;
+	height: 916px;
+	background: linear-gradient(180deg, #FFF 1%, #00E675 93.75%);
+}
+
+.container {
+	height: 71px;
+}
+
+.header {
+
+}
+
+.header a {
+	color: #000;
+}
+.menu {
+	height: 20px;
+	margin-top: 51px;
+	display: flex;
+
+	font-family: Montserrat;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.menu li a {
+	height: 20;
+	margin-right: 35px;
+	text-emphasis: none;
+	text-decoration: none;
+}
+
+.menu li {
+}
+
+.tel {
+	text-decoration: none;
+}
+
+.call {
+	margin-left: 56px;
+	margin-right: 14px;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	margin-left: 500px;
+	height: 71px;
+}
+
+.foot{
+	margin-left: 670px;
+}
+
+.about {
+	margin-top: 80px;
+}
+.info1 {
+	float: left;
+	width: 300px;
+height: 45px;
+flex-shrink: 0;
+float: left;
+margin-top: 20px;
+}
+
+
+.net {
+}
+
+.vklogo {
+	float: left;
+}
+
+.iglogo {
+	float: left;
+}
+
+.net img{
+	margin-right: 25px;
+	margin-top: 10px;
+}
+
+
+.men {
+	margin-top: 25px;
+}
+
+.men img {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.info2 {
+	width: 279px;
+height: 55px;
+flex-shrink: 0;
+	margin-top: 0;
+	float: left;
+	margin-top: 12px;
+	margin-bottom: 31px;
+}
+
+.wiki{
+	margin-top: 35px;
+}
+
+.vblogo {
+	float: left;
+}
+
+
+.wiki img {
+	margin-left: 25px;
+
+}
+
+.info3 {
+	width: 546px;
+height: 55px;
+flex-shrink: 0;
+	float: left;
+	margin-top:5px;
+}
+p {
+	margin-top: 0px;
+}
+.text {
+	margin-top: 35px;
+}
+.about
+{
+		color: #000;
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 345px;
+}
+.mess {
+	color: #000;
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	
+	margin-left: auto;
+	margin-top: 130px;
+}
+.logo {
+	padding-left: 0px;
+}

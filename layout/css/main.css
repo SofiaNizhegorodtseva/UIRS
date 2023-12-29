@@ -1,0 +1,260 @@
+h1 {
+	flex-shrink: 0; /*сжатие изображения*/
+	color: #000;
+	font-family: Montserrat;
+	font-size: 64px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+
+	margin-left: 370px;
+	height: 74px;
+	margin-top: 51px;
+	margin-bottom: 0px;
+}
+
+.text {
+	flex-shrink: 0;
+	color: #000;
+	font-family: Montserrat;	
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	margin-left: 200px;
+}
+body {
+	width: 1600px;
+	height: 1980px;
+	background: linear-gradient(180deg, #FFF 1%, #00E675 93.75%);
+}
+
+.zgl{
+	margin-left: 200px;
+}
+
+
+.container {
+	height: 71px;
+}
+
+.header {
+
+}
+
+.header a {
+	color: #000;
+}
+.menu {
+	height: 20px;
+	margin-top: 51px;
+	display: flex;
+
+	font-family: Montserrat;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.menu li a {
+	height: 20;
+	margin-right: 35px;
+	text-emphasis: none;
+	text-decoration: none;
+}
+
+.menu li {
+}
+
+.tel {
+	text-decoration: none;
+}
+
+.call {
+	margin-left: 56px;
+	margin-right: 14px;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	margin-left: 500px;
+	height: 71px;
+}
+
+.paragraph {
+	flex-shrink: 0;
+	color: #000;
+	font-family: Montserrat;	
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+  	
+  	float: left;
+  	margin-left: 200px;
+  	width: 700px;
+	height: 500px;
+
+}
+
+.about {
+	  	margin-top: 51px;
+	  	height: 396px;
+}
+
+.images {
+	display: flex;
+	margin-left: 970px;
+	margin-top: -90px;
+	position: absolute;
+	width: 750px;
+	height: 430px;
+}	
+
+.button {
+	margin-left: 380px; 	
+	padding-top: 50px;
+}
+
+.buttonc {
+	position: absolute;
+	margin-left: 800px;
+	margin-top: -75px;
+}
+
+.textb {
+	color: #000;
+	font-family: Montserrat;	
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	
+	position: absolute;
+	margin-left: 820px;
+	margin-top: -70px;
+
+	width: 400px;
+	height: 30px;
+
+
+}
+
+
+.textd {
+	color: #000;
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	
+	position: absolute;
+	margin-left: 29px;
+	margin-top: 6px;
+
+	width: 400px;
+	height: 30px;
+
+
+}
+
+.textd a {
+	color: #000;
+		text-decoration: none;
+}
+
+
+.buttonclick {
+	padding-left: 0px;
+	margin-left: 0px;
+}
+
+.foot{
+	margin-left: 600px;
+}
+
+.mess {
+	color: #000;
+	font-family: Montserrat;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	
+	margin-top: 40px;
+	float: left;
+}
+
+.vklogo {
+
+	float: left;
+	margin-bottom: 0px;
+	margin-left: 45px;
+	padding-top: 35px;
+}
+.odlogo {
+	padding-top: 33px;
+/*
+	float: left;
+	margin-top: 40px;
+	margin-left: 45px;*/
+}
+
+.textb a {
+	color: #000;
+		text-decoration: none;
+}
+.photo1 {
+
+	margin-left: 1050px;
+	position: absolute;
+	border-radius: 112px;
+	width: 760px;
+	height: 430px;
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 295px;
+
+}
+
+.photo2 {
+	margin-left: 370px;
+	margin-top: 50px;
+	position: absolute;
+
+
+	position: absolute;
+	margin-top: 38px;
+	margin-left: 1181px;
+}
+
+.photo3 {
+	margin-top: 50px;
+}
+
+.aboutnext {
+	color: #000;
+	font-family: Montserrat;	
+	font-size: 32px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 150px;
+	margin-right: 140px;
+}
+
+.button2{
+	margin-top: 670px	;
+	margin-left: 855px;
+
+}
+.photo3 {
+	margin-right: 35px;
+	margin-left: 370px;
+}
